@@ -1,0 +1,25 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Hangman using node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamarirosenthal/Hangman.git"
+  },
+  "keywords": [
+    "HANGMAN"
+  ],
+  "author": "Ari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamarirosenthal/Hangman/issues"
+  },
+  "homepage": "https://github.com/iamarirosenthal/Hangman#readme",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
